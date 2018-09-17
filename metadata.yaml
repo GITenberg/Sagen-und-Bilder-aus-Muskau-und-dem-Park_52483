@@ -1,0 +1,33 @@
+_repo: Sagen-und-Bilder-aus-Muskau-und-dem-Park_52483
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Liebusch, Georg
+    gutenberg_agent_id: '46887'
+    url: http://www.gutenberg.org/2009/agents/46887
+  editor:
+    agent_name: Petzold, E.
+    gutenberg_agent_id: '46888'
+    url: http://www.gutenberg.org/2009/agents/46888
+description: ''
+gutenberg_issued: '2016-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52483'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Muskau (Germany)'
+- !lcsh 'Parks -- Germany -- Muskau'
+- GITenberg
+tableOfContents: Des Parks Entstehen -- Die erste Nachtigall -- Die Weissagung der
+  Eichen -- Die Wehklage -- Das böse Ufer -- Die Ludki -- Die Bergkirche -- Der Heerd
+  des Herrn -- Die standesherrliche Gruft -- Die Taube des Schlosses -- Die Thränenwiese
+  -- Der Fremdling unter den Todten -- Das Jagdschloß -- Die Spiegelung -- Die Todte
+  -- Die Umarmung -- Die Heimath -- Der Feuerschein -- Das Bad -- Das Zapfenhäuschen
+  -- Sonst und Jetzt -- Des Parks Erhaltung.
+title: Sagen und Bilder aus Muskau und dem Park
+url: http://www.gutenberg.org/ebooks/52483
